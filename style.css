@@ -1,0 +1,28 @@
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+	font-family: cursive;
+}
+
+h1 {
+	text-align: center;
+	font-size: 3rem;
+}
+
+main {
+	max-width: 560px;
+	height: 570px;
+	padding: 20px;
+	margin: 0 auto;
+	background-color: black;
+}
+
+main img {
+	display: inline-block;
+	width: 170px;
+	height: 175px;
+	padding: 15px;
+	border: 1px solid #fff;
+	cursor: pointer;
+}
